@@ -8,10 +8,12 @@ import TopBar from '../CommonComponents/TopBar';
 function Dashboard() {
     const dispatch = useDispatch();
     const history = useHistory();
-    const { courses, categories, loading } = useSelector(state => state.onlineCourses);
+    const { courses, categories, loading, loginSuccessfull} = useSelector(state => state.onlineCourses);
     useEffect(() => {
-        if (!courses) {
+        if (!courses && loginSuccessfull) {
             dispatch(getSearchResults());
+        } else if(!loginSuccessfull){
+            history.push('/');
         }
     },[]);
 
