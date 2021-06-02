@@ -1,0 +1,244 @@
+{
+    "categories": {
+        "design": {
+            "name": "Design",
+            "category_URI": "https://s.udemycdn.com/home/top-categories/lohp-category-design.jpg",
+            "courses": [
+                {
+                    "course_id":"1",
+                    "course_title": "Adobe Photoshop CC: Your Complete Beginner to Advanced Class",
+                    "course_description": "Learn the essential tools of Adobe Photoshop CC to jump right in and design beautiful graphics and photos in Photoshop.",
+                    "course_uri": "https://img-b.udemycdn.com/course/240x135/927356_8108_4.jpg?secure=Ys4RTu0j4oNMKwEo56U2EA%3D%3D%2C1622192781",
+                    "price": "389",
+                    "old_price": "490",
+                    "section": "design"
+                },
+                {
+                    "course_id":"2",
+                    "course_title": "Photoshop Beginners Mastery: Zero to Hero in Photoshop",
+                    "course_description": "Learn Photoshop quickly and easily with essentials of Adobe Photoshop to produce beautiful images in Adobe Photoshop.",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/348146_9dc0_7.jpg?Expires=1622193723&Signature=j-V-XnpOYcFQdiFMJoUB~ZTVgdBaSynyPFlxQic~WsPynuBH4WPGudzaY2mHw3vJVRGFKHPx7311pt~Hrn7Ygr3qQLM4j7OqVrC9uBfmiB4FcV-NfAXp8nWpCYZjs4Y63N4DvS-DHcxId-pr1KGRdgXY-ZowBSQeVULvGjuZH5adAGhhj8gCNz4b~FvxRiX~QJ59rSIYv8tv63awneHi3gdyGeLcCH2ChQvgOcxR46bpKXFkYfXBL3-URZLpvkDVY26jcyaGGc0t1HMCUktn-buiLDyKl6o0tWTgIugHzeDH6wwpDw1mXFL32notq089tqa2x5y-ZpzqMuiQxf~X~g__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "897",
+                    "old_price": "1099",
+                    "section": "design"
+                },
+                {
+                    "course_id":"3",
+                    "course_title": "Drawing and Painting on the iPad with Procreate",
+                    "course_description": "Learn everything you need to know about Procreate with hands on drawing lessons. Now updated for Procreate 5.",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/1081714_3862.jpg?Expires=1622201801&Signature=dErI34T03kAkaZVYpQ9Dt3V31VkLMlcf7f9VDAG1zJ9avu~oWUF93EjCkQBxLPXfl-7rft7Bv-nqWiRC5JyFf3cMzzzVc5FZRwjqpYzs-9FraayklZEIG2Ls6hTJDuAi9dkE~bzv~QLPNc5V6rjYK919zw6k1m8EAqWZY7EfyVvgH0cgxykcfqWy3HmZzb6CxRKoINIpYL7X~etXr~fJ2D7~xxU-V7zQodU8zvbaMB-K756uvyU9D1r2Asgu4qp7C9X2uOU-4iYMKC8LsaS1wMOuwe9us3xre6Vrp00Y~yn5De3DjpgBXfi5b6XioArskPBRLKg0GOh~4KfzojfJNg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "590",
+                    "old_price": "700",
+                    "section": "design"
+                },
+                {
+                    "course_id":"4",
+                    "course_title": "Photoshop Master Course: From Beginner to Photoshop Pro",
+                    "course_description": "This Adobe Photoshop Beginner Course will teach a Beginner Photoshop user all essentials of Adobe Photoshop CC.",
+                    "course_uri": "https://img-b.udemycdn.com/course/240x135/16799_e077_20.jpg?secure=KZXRkviBvzwEexaRWTPA1w%3D%3D%2C1622197485",
+                    "price": "300",
+                    "old_price": "600",
+                    "section": "design"
+                },
+                {
+                    "course_id":"5",
+                    "course_title": "Rhino 3D tutorials v5 & v6 Beginner Level to Advanced Level",
+                    "course_description": "Learn from the ground up with these easy to follow videos in Rhinoceros 3D. The videos are regularly updated.",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/1341284_638e_9.jpg?Expires=1622192780&Signature=cTlieQubZpgqoT4YWMFpgF7ot~8llRFLQ~gdFswV0mfZc9iQTHbXrIfuw1t604s1TT66Z44VBDeSqLqFYhv2Egf6WHxP6l-fJke0hfpf7aYXrMs0QEIuIBmZ2F5-u2eyT9w3XpJohrtsKC8GAR59XmxSZOTv4GHRk2rXImRj-S2BBa-3vI13k-6U1jEhZZSSCiNXp6UUhozgWY8NCwti91m1HDVd9ZVwqNeYcBSvyB8uOmzyNLK1bVn-h2PypBk57Me~0tU0iVSL6IoDXz5kySClSCWeOhHpFhMXa2QbEpncmym4SMT1w7Pg2W1rtBuwQvktDeSULlZprFfgeC0JvA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "389",
+                    "old_price": "490",
+                    "section": "design"
+                }
+            ]
+        },
+        "development": {
+            "name": "Development",
+            "category_URI": "https://s.udemycdn.com/home/top-categories/lohp-category-development.jpg",
+            "courses": [
+                {
+                    "course_id":"6",
+                    "course_title": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+                    "course_description": "Learn Python like a Professional  Start from the basics and go all the way to creating your own applications and games",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg?Expires=1622258250&Signature=aNinoXsjz3qjFDTYeRMe27ytmIkb8mtwgEmAEbiYhlIsFR6bWWLR2p7uZkuyCJrK-W3FzeRv0kRus4-icQrsIHqBTy~kOoHUhkddinp2RuXXj1DskRJ-2JOVHOf~6ugejderJLRsIIN-1Fp8QjCxCfgBaSAzjZz-FcJ9wrugX9CF1-G5P5CwpGxHJqhBFRyr90V1ivfKyloJFCKxjR2DZ3lDQ9vEBCjME2mBtp1GiyZI~SqUZHAw2VczNjSSjb7adxro7QA~4vWz-YLAArCmIMXke6HkfL1T6X0qsn7uNsVFZ2Ql~ThLH~UZv-8o3RqIYxRYjmyXacKtnGU~6ZgVFw__&Key-Pair-Id=APKAITJV77WS5ZT7262A 1x, https://img-b.udemycdn.com/course/480x270/567828_67d0.jpg?secure=RcyRuNaTbikGNX-bViuNrg%3D%3D%2C1622258250 2x",
+                    "price": "8650",
+                    "old_price": "",
+                    "section": "development"
+                },
+                {
+                    "course_id":"7",
+                    "course_title": "The Web Developer Bootcamp 2021",
+                    "course_description": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/625204_436a_3.jpg?Expires=1622254209&Signature=imRM4Xd23qtpWpaHSiuLK0ZxeVIWJCuidCD4njt1k5n8foFLYbWUdQ9ICIKPLq4S8Iz~Rz3-gE0EKwhQ48UZ70grkf0~1bDyo7Gqn0WjtAFMMJayEfamgHKNyQcHnY-QgGZH7RGrZy6kpW143pQYof8Aohx0NpekMPaw6922e7CBqpHzWO4Hqva0c-ydOcSjkjgeVZJZZ20y5KgNfCSDzjWSKJGnzNDRYprWTKJ4Yp8b~jOx4UqAojJKhx6VjY8pUMz7E~AwWBjFtm9JOtBN3rH6fa0Ikzk5hG0RrRaxdFgxMH4WcaNzkrfBjKdIN6swpvJqk1TnU-l5Lin129RUMQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "8640",
+                    "old_price": "9000",
+                    "section": "development"
+                },
+                {
+                    "course_id":"8",
+                    "course_title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+                    "course_description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg?Expires=1622257770&Signature=C6V-l7uMIvLx4eju7wKpzR8fP0vGTx4HVUZ-3A069Tapv-ydYOJJQkq7tY1KLIOXXRTyMIOAsJxje1mAeaFdYlU~~QycngyOBSt6~CApihZPA2KT7pkbBiKPguqqtqAWMXcwKHqkOTJ3XKSLY91eI9jEOgPD6Ca1WvBLWmoS6UFlYln8Dmx~6HGcmzFhHeyPh0S-NcGuJ46B75k4Fel9dZ9MUVNksA8350nLolWVCix~eapW49u70~nTOJAX7wXo8NvNE~8nwxWsxGRNPXx8ZYXlx~i4l06nQaetVlaoP9DaiS9cFx5keJsoXc-U31ZlNc5DZgVefOA9nJCLx6h~lA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "7650",
+                    "old_price": "",
+                    "section": "development"
+                },
+                {
+                    "course_id":"9",
+                    "course_title": "Angular - The Complete Guide (2021 Edition)",
+                    "course_description": "Master Angular 12 and build awesome, reactive web apps with the successor of Angular.js",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/756150_c033_2.jpg?Expires=1622242154&Signature=fGa8HGb5t8xYRIGx~ensk1~th7Xfx~OJXg1zF~~lGWNBCayRfetp1EWi7cJkP3yzntYWRVkKVP1EECOI02Fl7KMuTt9wj~B6S9mNflxv4F79mdXYefQAicGGXYkWfgG5qiOKFwh3VhY3sGmaED5tHH6d~sZFfyov7NnPcYobHl55Fe4Xdb0-dpgjbTcqSQRSg~DKkiU1dV8kJH0K9U13S6~Kt5sTcD79UH58U7qwdyuOcNan230DehM-F~F85wyZvSUB2RNXw7chI7a6r198JoZwSNrFvYgdSyaftvDxW8ytbgbz1e8kOj1Ky4X3yGQ8iaZWhSdNoEAFfxx6kScLaw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "5250",
+                    "old_price": "",
+                    "section": "development"
+                },
+                {
+                    "course_id":"10",
+                    "course_title": "Java Programming Masterclass for Software Developers",
+                    "course_description": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/533682_c10c_4.jpg?Expires=1622242155&Signature=K8IPvF4ZTOti008W5CAKgPovFx-aJshC4pIccATDrNhdkXpIlFvzzfHGtkq5b8DTrYuWCaGRujYA9Zyy~Stv7OQFghS9K4OeaCkYLECQ94-vlyFyJQo759F3esxyqEldO8XYfAnMDXVBuYKt-5TTFdjWqZDIxdDeHARiqOQCjR0RgoTyS~qXJL2cUg~mxfFoeTbAdWOv0f7n4cIAm1wZSM-tMGy37AKqmn3bIXcMOgLfFrnnO1jg3yTv1Qwwyg8aWSnEoCG7muf6eZjnHtu9Y~MAPq6Lj4oLv8Qi8NVO0pnM3XhYj12ll-k9uSuzfICIe8gOyGGahL3SqCoQ1zojng__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "5250",
+                    "old_price": "",
+                    "section": "development"
+                }
+            ]
+        },
+        "marketing": {
+            "name": "Marketing",
+            "category_URI": "https://s.udemycdn.com/home/top-categories/lohp-category-marketing.jpg",
+            "courses": [
+                {
+                    "course_id":"11",
+                    "course_title": "The Complete Digital Marketing Course - 12 Courses in 1",
+                    "course_description": "Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More!.",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/914296_3670_8.jpg?Expires=1622258250&Signature=gUc9Uoh65xSm6Auovl~nrP1nMTxNHKGBbfyAvoWaQFkU1EJ0CySxSoQKpvHcYONHD-WdN5qJZhPWdnrvvmWVXpgXGIOeJl7-XuJTmvNszeHYDoX~sBM422jymFm8o4ONltHvRs4CVQNojkJvIS-QlGrO-J5pkXrg5Mp2ciQ40mbUCZ1Ku7TS2bPM1tdFdCmAGhUgV47fcTVsKWHn96JIbGjyL~xKqq2nSwwMhrX3HkFjWodQ1tthuReOoxWjWvKClIgLUizD4sdPcjflzlfQoq8WkUnmrgv0L4YEC~OQRcO-6yvJseUQwnLGYpIAjbdczxE3algMWvdAwYTOb7b4og__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "999",
+                    "old_price": "1199",
+                    "section": "marketing"
+                },
+                {
+                    "course_id":"12",
+                    "course_title": "Ultimate Google Ads Training 2020: Profit with Pay Per Click",
+                    "course_description": "Google Ads 2020: How our clients have transformed their sales using Google Ads & get your Google Ads certification!",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/671544_9613_5.jpg?Expires=1622229334&Signature=PAi~n4MYPhRxKgINZLtGIuXX0wOvdIwZPhL4v4ssmeGz427Yav1QoFgSmSvctL3qkcLGXrgw4gqx4BZMK31Z0bsMrmdvBp3fgLisZf7Z3IaHwPi6ZIiRi6rJOdcYgYLgTf805VAdNzZHwTRM-rjrMGvDvR-QZXh1S5WB1MgQG~d1daUOuR26XeMcMorAwqJFHvWTWHkOuVshUknBj1eSYZskEnpwcns9mJg98C7PVifhMYabGTOr3M7TEOrQ8pyuEbetXtBzYTypI9HyzE0--xlqett4qh7-K89GDTTWzW9mRNT1VDf5rt7kgggnfpcC28m4s7Kz56-u0fkXzX303g__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "999",
+                    "old_price": "",
+                    "section": "marketing"
+                },
+                {
+                    "course_id":"13",
+                    "course_title": "Instagram Marketing 2021: Complete Guide To Instagram Growth",
+                    "course_description": "Attract Hyper-Targeted Instagram Followers, Convert Followers to Paying Customers, & Expand your Brand Using Instagram",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/484606_5721_16.jpg?Expires=1622254914&Signature=NQTjVNeaY-gnrEJb0DpP06tuebdccLkh0DtNaPPDzgrbWK0MYaj8~Z7H94h8WClPgbWy-MAqO954j1nZax9F-X7-7P4NGkTV3KJMcdfwjDTsP16FWVAGdO5hav2gX1h2lH8XTYwzSQc~ZGg7t1RpFGk0~DL8or-JXzs~0Qq23nyDzT4mVdlTxRxvHc8uVIzK9EtTNniMvk5quUq2dqqR~O5vKd-c4od83SUSaGYuGEeF3pCE3zropg4blZc6dto7aChfmuvGo3Py5Uitw6F7F06KLRnl64fRo1Vj6xVc5FTqwDO9Gu~VsOjA0mb-oooZS339SYx8RNAnPB65JQAMIA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "1200",
+                    "old_price": "",
+                    "section": "marketing"
+                },
+                {
+                    "course_id":"14",
+                    "course_title": "Facebook Ads & Facebook Marketing MASTERY 2021 | Coursenvy ®",
+                    "course_description": "Facebook Marketing from beginner to advanced! Join 100,000+ students who MASTERED Facebook and are Facebook Ads experts!",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/403314_b091_3.jpg?Expires=1622253933&Signature=bni33DbfU-9CYFp6z~hdz--aB~pEJkVDn6ag0F6NnzyoE35bqZVl70z~a50UsyZ0F5Tg5GBTMHAo554ecrMR16FLygh0EEcwpCrX8YAelRdHob6l72wEDtmCu7wIjXrvX0DfXb5Lrm0xfnvWtn9z5h2WqtC4Pp~2v7SslWn9h63eFcFz~mdGtnNaunF~K5XdYJwo~lFI6ARxBboRNGJ1pO0sh~35ZFD8dFmmTddb9vpB~oTJ53MKca3hFQq5BYRSKJfPDf4lcW8bdHcBTzdbTDTQxoDvmCtaFHbfpNerzBgZqqWDL-S11rrl4csQAexcvZn24iKdRGvtZNS-l~wkRQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "3700",
+                    "old_price": "",
+                    "section": "marketing"
+                }
+            ]
+        },
+        "it_software": {
+            "name": "IT and Software",
+            "category_URI": "https://s.udemycdn.com/home/top-categories/lohp-category-it-and-software.jpg",
+            "courses": [
+                {
+                    "course_id":"15",
+                    "course_title": "The Complete Cyber Security Course : Hackers Exposed!",
+                    "course_description": "Volume 1 : Become a Cyber Security Specialist, Learn How to Stop Hackers, Prevent Hacking,  Learn IT Security &  INFOSEC",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/614772_233b_9.jpg?Expires=1622511634&Signature=KTlVy1RNVaJMNpfis4EjGkGpnFq56ot~cIIz0FrB~1WhU7y~yirEg~SjGO1FJ9Kai65Kt2Y1eXI2k9D-Bq4rp5Y-G9htWsgEwmmf8j7TPj7gpicmuiRNIfNo1JpaHj8f8B8qYe1RjzmVcRRqSecDfDrd-wfvePyHNP7PxUpY~uGpmfGtMH6~Igfvx1~iIEmY-JHVA~Fkm4v6kKYpPxO1pHXcjxC~E~wk31Bw28VoSCdkI6Xsm3OZxcqb3nwA4r40RsvASE4e5jekiq2ZZ2wv6Nvg~IJxmu16l1Lt~3pWEk7CyNplCVR1xmyoklOACVqtpoChVnkKBHoTkqmqumI0Xw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "8600",
+                    "old_price": "",
+                    "section": "it_software"
+                },
+                {
+                    "course_id":"16",
+                    "course_title": "Learn Ethical Hacking From Scratch",
+                    "course_description": "Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/857010_8239_2.jpg?Expires=1622258251&Signature=KMPZROjvlCaFGzr4cMLjY3wWrLQx4jqN0ZuR1vlH9kbNVYx3Uu5RgPw9L27tFBFEEEdRYjgTalQArGzYKd9e2WOyz9Gd7w6zIihNB~wyqj~5sN7QJSeR56cVF6O-3TQVlY7X0kmie-8WIrTSjSmY2VgcagfRCgMt-l98JUEsojKRtQs9n4HmAx8R4nDUQVzAHVopyzqsh8gNi1PdRwy6JCXqI4tYE0UXnfkfqPCBADtxQAz3v3bZZBDZJg6w2Ssk5WIG~oCEQXSZifCAVMjNoiKMhxefHQNM3DjxOAVSAuEsoq8GVuOyJiZ4WMVMNkKyWZwzQyacoPvZAtm89ObBwg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "8200",
+                    "old_price": "",
+                    "section": "it_software"
+                },
+                {
+                    "course_id":"17",
+                    "course_title": "Ultimate AWS Certified Solutions Architect Associate 2021",
+                    "course_description": "Pass the AWS Certified Solutions Architect Associate Certification SAA-C02. Complete Amazon Web Services Cloud training!",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/2196488_8fc7_7.jpg?Expires=1622259950&Signature=Y8rMFAHYKtbirbZ-4TJYSzhw3cYgSBJeoG0kxuGDMrTuKA0KUxf5VFn1pE2g2SbE7SGGAIRJ6qF2ykanSIsU77WBf6-9pSFdLVLCDYgkq0hGs-JhkvZPBs5po2nMl35ZLfHRjS12EwGlJUKXyC0wM7A2h8rEVtEDlIEW15q0WU~39e-MMP6lYaB0Wc8qjIbKMC2BENNAVsX7OCULzAXiTzV4JF6i7VzrBmVes7FY0QwHIVC6UVmms-wjZ~oCNrN-X6cILMd~RtQaA8EdEtZOZYOZmncYY29D9w5SnBu6jd-egeHnRWOI3oO9cMpRPTbsAc9iBisr1g3FhB0pJl97ZA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "8200",
+                    "old_price": "",
+                    "section": "it_software"
+                }
+            ]
+        },
+        "personal_development": {
+            "name": "Personal Development",
+            "category_URI": "https://s.udemycdn.com/home/top-categories/lohp-category-personal-development.jpg",
+            "courses": [
+                {
+                    "course_id":"18",
+                    "course_title": "Time Management Mastery: Do More, Stress Less",
+                    "course_description": "Take control of your time, your to-do list, and your overwhelm.  Learn how to get it all done, without the stress.",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/2108272_1035_5.jpg?Expires=1622493505&Signature=Dx0MjSxiMldCU9jUJMkoDW2xPl6xEXflzwcVRhj6sVMhjHC-4-4EwnkEidKudqbdeOoaLueIFpD-iiKeDCSqP~XFivHjE7USyZcxNgBnIEL2H9GGVpMOmQkAGevzU9FQ1uvq2cz4raf8HUdZj4Os3LUqtM4R9N~OZG1X3rw0QvzfMDTIKE4f-HElMSn7O~kJQAHfkF0iSWrQeoxMm3qAiFe5tZ0ipqLyReLG7SIB0kz6n0zLPLPj5RFOdQNlioD2Bdyx9f1rsiBSYofUnISThCOjUKNzu7-tN0q8BbTJYY9zeHrVa40U4zgLD5r8Gw5-xmZC6X8314Y4DvxqUKInpA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "8999",
+                    "old_price": "",
+                    "section": "personal_development"
+                },
+                {
+                    "course_id":"19",
+                    "course_title": "Neuroplasticity: How To Rewire Your Brain",
+                    "course_description": "How to develop mental flexibility, change habits, stop procrastination and alter memories based on neuroscience research.",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/836842_38ab_5.jpg?Expires=1622492080&Signature=O2GlohhmoJ3envxmj0JQTwRtGqFcn-jGSDmP4v4YKNiRgt7-qhDKdxFNWsAMe6d-JeQm8nmIDLSmiUBWFceR-1MsKuYoF30XFvDPTdgiGGPVGiP6JOUFQEOoNv-Bqk8kUZFymJt0DQ1EXhIP-I9nelTeKZZnG3C3YmPudqBBVie6JFegIqV~B~ahB5UEOVB9QqfGkA3AkMJ3tA7CoDy8xFyHIQCVDO-bcM2oOl3z-mrK6AJ1ROb28lzMXUFXI0qPZ3BVHAVcJpUubw44YDMCkXBUwMkOwBTGojfuQIA8pLIXKNXJLFuLUDBbsNNB7gPYQpTpqVSf9QPdExmFNdoWow__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "3891",
+                    "old_price": "",
+                    "section": "personal_development"
+                },
+                {
+                    "course_id":"20",
+                    "course_title": "Radiate Confidence: How to Create a 1000 Watt Presence",
+                    "course_description": "Helping you unlock your inner light, or presence, so you can easily, effortlessly connect with everyone you meet.",
+                    "course_uri": "https://img-c.udemycdn.com/course/240x135/120600_4077_7.jpg?Expires=1622522661&Signature=Dld7MkLQZAv9Mndd6v1XGgmDc9PLRlb52dD5fRRaKqQLqP-cBbwLCpBbmlBNZskFXPIZo8he4jKd10IlPn~TqvauS0KIZn9BVsR3iYgfgmfx~lGJ8Eq16sBhdD9BR9-YcOVcA~zNoqAfMNLTrnHvVBQSmJ9llRvBM49TjpNCIavGeynz2zjdaYeULg~GFFNeraLghqqzgjXqlPnekAr40HBLn0e148T4UFyEQPS5Ery5cnsZ~xCPz9pAJg194d23NIWHj1TRKgyYsn3nCIMWwjXrbeCnXOANc2PG-VnyYCww~cX99Y8FUF3oIZS5InkA9H3vHidQyTR8mk7OcFY6Dg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+                    "price": "3891",
+                    "old_price": "",
+                    "section": "personal_development"
+                }
+            ]
+        },
+        "business": {
+            "name": "Business",
+            "category_URI": "https://s.udemycdn.com/home/top-categories/lohp-category-business.jpg",
+            "courses": [
+                {
+                    "course_id":"21",
+                    "course_title": "Adobe Photoshop CC: Your Complete Beginner to Advanced Class",
+                    "course_description": "Learn the essential tools of Adobe Photoshop CC to jump right in and design beautiful graphics and photos in Photoshop.",
+                    "course_uri": "https://img-b.udemycdn.com/course/240x135/927356_8108_4.jpg?secure=Ys4RTu0j4oNMKwEo56U2EA%3D%3D%2C1622192781",
+                    "price": "389",
+                    "old_price": "490",
+                    "section": "business"
+                }
+            ]
+        },
+        "photography": {
+            "name": "Photography",
+            "category_URI": "https://s.udemycdn.com/home/top-categories/lohp-category-photography.jpg",
+            "courses": [
+                {
+                    "course_id":"22",
+                    "course_title": "Adobe Photoshop CC: Your Complete Beginner to Advanced Class",
+                    "course_description": "Learn the essential tools of Adobe Photoshop CC to jump right in and design beautiful graphics and photos in Photoshop.",
+                    "course_uri": "https://img-b.udemycdn.com/course/240x135/927356_8108_4.jpg?secure=Ys4RTu0j4oNMKwEo56U2EA%3D%3D%2C1622192781",
+                    "price": "389",
+                    "old_price": "490",
+                    "section": "photography"
+                }
+            ]
+        }
+    }
+}
