@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getSearchResults } from '../../actions/loadCoursesActions';
-import TopBar from '../CommonComponents/TopBar';
 import ErrorFallback from '../CommonComponents/ErrorFallback';
 
 function MyCourses() {
@@ -18,7 +17,6 @@ function MyCourses() {
     }
     try {
         return (<>
-            <TopBar />
             <div className="container mt-4" style={{ width: '70%' }}>
                 {enrolledCourses.length === 0 && <h4>You have not selected any course yet</h4>}
                 {enrolledCourses.length > 0 && <h4>Enrolled Courses</h4>}

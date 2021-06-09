@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { useHistory } from "react-router-dom";
 import Alert from 'react-bootstrap/Alert';
-import TopBar from '../CommonComponents/TopBar';
 import BreadCrumbs from '../CommonComponents/BreadCrumbs';
 import ErrorFallback from '../CommonComponents/ErrorFallback';
 
@@ -26,7 +25,6 @@ function SearchCourses() {
     }
     try {
         return (<>
-            <TopBar />
             <div className="container mt-4" style={{ width: '70%' }}>
                 <BreadCrumbs links={[{ linkName: 'Home', linkUrl: '/dashboard' }, { linkName: 'Search Results', linkUrl: null }]} />
 

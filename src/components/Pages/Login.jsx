@@ -1,7 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import { useDispatch } from 'react-redux';
 import { useHistory } from 'react-router-dom';
-import TopBar from '../CommonComponents/TopBar';
 import ErrorFallback from '../CommonComponents/ErrorFallback';
 import './Login.scss';
 
@@ -24,7 +23,6 @@ function Login() {
     }
     try {
         return (<>
-            <TopBar />
             <div className="wrapper fadeInDown">
                 <div id="formContent">
                     <div className="fadeIn first mt-4">

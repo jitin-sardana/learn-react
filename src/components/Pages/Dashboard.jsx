@@ -3,7 +3,6 @@ import { useDispatch, useSelector } from 'react-redux';
 import { getSearchResults } from '../../actions/loadCoursesActions';
 import Loading from '../CommonComponents/Loading';
 import { useHistory } from "react-router-dom";
-import TopBar from '../CommonComponents/TopBar';
 import ErrorFallback from '../CommonComponents/ErrorFallback';
 
 function Dashboard() {
@@ -24,7 +23,6 @@ function Dashboard() {
     }
     try {
         return (<>
-            <TopBar />
             <Loading show={loading} />
             <div className="container-lg">
                 <div className='row mt-4'>

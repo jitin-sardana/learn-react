@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useHistory } from "react-router-dom";
 import Alert from 'react-bootstrap/Alert';
-import TopBar from '../CommonComponents/TopBar';
 import BreadCrumbs from '../CommonComponents/BreadCrumbs';
 import ErrorFallback from '../CommonComponents/ErrorFallback';
 
@@ -25,7 +24,6 @@ function CourseDetailPage() {
     }
     try {
         return (<>
-            <TopBar />
             <div className="container">
                 <BreadCrumbs links={[{ linkName: 'Home', linkUrl: '/dashboard' }, { linkName: courses.categories[selectedCategory].name, linkUrl: null }]} />
 

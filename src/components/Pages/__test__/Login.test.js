@@ -1,19 +1,9 @@
-/* import { render, screen } from '@testing-library/react';
-import App from './App';
-
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
-});
- */
 import React from 'react';
-import { render } from '@testing-library/react';
-import Login from './Login';
+import Login from '../Login';
 import { Provider } from 'react-redux';
 import * as reactRedux from 'react-redux'
 import configureStore from 'redux-mock-store';
-import { shallow } from '../../enzyme';
+import { shallow } from '../../../enzyme';
 
 describe('With React Testing Library', () => {
   const useSelectorMock = jest.spyOn(reactRedux, 'useSelector');

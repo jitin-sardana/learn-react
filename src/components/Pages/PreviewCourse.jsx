@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { Link, useHistory } from "react-router-dom";
+import { useHistory } from "react-router-dom";
 import Tabs from 'react-bootstrap/Tabs'
 import Tab from 'react-bootstrap/Tab'
 import Alert from 'react-bootstrap/Alert';
-import TopBar from '../CommonComponents/TopBar';
 import BreadCrumbs from '../CommonComponents/BreadCrumbs';
 import ErrorFallback from '../CommonComponents/ErrorFallback';
 
@@ -24,7 +23,6 @@ function PlayCoursePage() {
     }
     try {
         return (<>
-            <TopBar />
             <div className="container">
                 <BreadCrumbs links={[{ linkName: 'Home', linkUrl: '/dashboard' }, { linkName: categories[selectedCategory].name, linkUrl: null, onClick: true }, { linkName: course_title, linkUrl: null }]} />
                 {showMessage && <div className='mt-4'><Alert variant="success" onClose={() => setShowMessage(false)} dismissible>
